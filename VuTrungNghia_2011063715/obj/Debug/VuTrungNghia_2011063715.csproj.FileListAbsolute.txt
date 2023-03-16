@@ -115,3 +115,4 @@ C:\Users\Vu Nghia\Desktop\VuNghia\VuTrungNghia_2011063715\VuTrungNghia_201106371
 C:\Users\Vu Nghia\Desktop\VuNghia\VuTrungNghia_2011063715\VuTrungNghia_2011063715\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Vu Nghia\Desktop\VuNghia\VuTrungNghia_2011063715\VuTrungNghia_2011063715\obj\Debug\VuTrungNghia_2011063715.Migrations.CreateTableCourse.resources
 C:\Users\Vu Nghia\Desktop\VuNghia\VuTrungNghia_2011063715\VuTrungNghia_2011063715\obj\Debug\VuTrungNghia_2011063715.Migrations.PopulateCategoryTable.resources
+C:\Users\Vu Nghia\Desktop\VuNghia\VuTrungNghia_2011063715\VuTrungNghia_2011063715\obj\Debug\VuTrungNghia_2011063715.Migrations.AddNameColumnToApplicationUser.resources

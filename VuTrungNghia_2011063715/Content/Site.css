@@ -1,4 +1,5 @@
-﻿body {
+﻿
+body {
     padding-top: 50px;
     padding-bottom: 20px;
 }
@@ -23,8 +24,43 @@ textarea {
     max-width: 280px;
 }
 
-.navbar-inverse .navbar-toggle:hover,
-.navbar-inverse .navbar-toggle:focus {
-    background-color: #777;
-    border-color: #fff
+.navbar-inverse {
+    background-color: #d41d50;
+    border-color: #ff6a00;
 }
+.navbar-inverse .navbar-nav > li > a {
+        color: white;
+        font-size: 15px;
+}
+
+.navbar-inverse .navbar-brand {
+        color: white;
+}
+
+.course {
+    list-style: none;
+}
+
+.course > li {
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.course > li .date {
+  text-align: center;
+  background-color: #ff6a00;
+  color: white;
+  width: 60px;
+  border-radius: 8px;
+  line-height: 20px;
+  height:50px;
+  margin-top: 20px;
+ }
+
+.course > li .detail {
+   margin-top: 10px;
+  text-align: center;
+  position: absolute;
+  top: 10px;
+  left: 70px;
+ }
