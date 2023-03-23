@@ -116,3 +116,12 @@ C:\Users\Vu Nghia\Desktop\VuNghia\VuTrungNghia_2011063715\VuTrungNghia_201106371
 C:\Users\Vu Nghia\Desktop\VuNghia\VuTrungNghia_2011063715\VuTrungNghia_2011063715\obj\Debug\VuTrungNghia_2011063715.Migrations.CreateTableCourse.resources
 C:\Users\Vu Nghia\Desktop\VuNghia\VuTrungNghia_2011063715\VuTrungNghia_2011063715\obj\Debug\VuTrungNghia_2011063715.Migrations.PopulateCategoryTable.resources
 C:\Users\Vu Nghia\Desktop\VuNghia\VuTrungNghia_2011063715\VuTrungNghia_2011063715\obj\Debug\VuTrungNghia_2011063715.Migrations.AddNameColumnToApplicationUser.resources
+C:\Users\Vu Nghia\Desktop\VuNghia\VuTrungNghia_2011063715\VuTrungNghia_2011063715\obj\Debug\VuTrungNghia_2011063715.Migrations.AddAttendance.resources
+C:\Users\Vu Nghia\Desktop\VuNghia\VuTrungNghia_2011063715\VuTrungNghia_2011063715\bin\System.Net.Http.Formatting.dll
+C:\Users\Vu Nghia\Desktop\VuNghia\VuTrungNghia_2011063715\VuTrungNghia_2011063715\bin\System.Web.Http.dll
+C:\Users\Vu Nghia\Desktop\VuNghia\VuTrungNghia_2011063715\VuTrungNghia_2011063715\bin\System.Web.Http.WebHost.dll
+C:\Users\Vu Nghia\Desktop\VuNghia\VuTrungNghia_2011063715\VuTrungNghia_2011063715\bin\System.Net.Http.Formatting.xml
+C:\Users\Vu Nghia\Desktop\VuNghia\VuTrungNghia_2011063715\VuTrungNghia_2011063715\bin\System.Web.Http.xml
+C:\Users\Vu Nghia\Desktop\VuNghia\VuTrungNghia_2011063715\VuTrungNghia_2011063715\bin\System.Web.Http.WebHost.xml
+C:\Users\Vu Nghia\Desktop\VuNghia\VuTrungNghia_2011063715\VuTrungNghia_2011063715\obj\Debug\VuTrungNghia_2011063715.Migrations.AddFollowingsTable.resources
+C:\Users\Vu Nghia\Desktop\VuNghia\VuTrungNghia_2011063715\VuTrungNghia_2011063715\obj\Debug\VuTrungNghia_2011063715.Migrations.AddIsCanceledColumnToCourse.resources
